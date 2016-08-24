@@ -1,30 +1,27 @@
 {
-  "name": "twitsp",
-  "version": "1.0.0",
-  "description": "tweet about sharepoint saved in a sharepoint list",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "nodejs",
-    "pnp-js-core",
-    "sharepoint",
-    "office365"
-  ],
-  "author": "Mauricio n r",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^2.13.1",
-    "eslint-config-airbnb": "^10.0.1",
-    "eslint-plugin-import": "^1.14.0",
-    "eslint-plugin-jsx-a11y": "^1.5.5",
-    "eslint-plugin-react": "^5.2.2",
-    "nodemon": "^1.10.2"
-  },
-  "dependencies": {
-    "node-fetch": "^1.6.0",
-    "sp-pnp-js": "^1.0.3",
-    "twit": "^2.2.4"
-  }
+    "name": "twitsp",
+    "version": "1.0.0",
+    "description": "tweet about sharepoint saved in a sharepoint list",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "pnp-js-core",
+        "sharepoint",
+        "office365"
+    ],
+    "author": "Mauricio n r",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^1.10.2"
+    },
+    "dependencies": {
+        "node-fetch": "^1.6.0",
+        "sp-pnp-js": "^1.0.3",
+        "twit": "^2.2.4"
+    }
 }
