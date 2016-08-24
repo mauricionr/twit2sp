@@ -25,3 +25,7 @@
 
 
 Obs: if you don't have one sharepoint dev tenant check out this [link](https://profile.microsoft.com/RegSysProfileCenter/wizardnp.aspx?wizid=14b845d0-938c-45af-b061-f798fbb4d170&lcid=1033)
+
+![Logs](https://github.com/mauricionr/twit2sp/blob/master/demo/logs-working.png)
+
+![Items on SharePoint](https://github.com/mauricionr/twit2sp/blob/master/demo/items-on-sharepoint.png)
