@@ -20,7 +20,7 @@
 5. fork this repo
 6. clone them
 7. Install dependencies with `npm install`
-8. Copy and paste the `config.sample.js`  and change to `config.js` after that add the necessary info to work with bot services
+8. Copy and paste the `config.sample.js`  and change to `config.js` after that add the necessary info to work with both services
 9. Start dev with `npm run dev`
 
 
